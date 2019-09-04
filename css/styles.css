@@ -1,0 +1,85 @@
+body {
+    background: rgb(228, 228, 228);
+}
+
+#nav_bar {
+    /*Purpura*/
+    background-color: rgb(125, 32, 151);
+}
+
+#button_nav {
+    /*azul*/
+    background: rgb(20, 73, 151);
+}
+
+#title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    float: left;
+}
+
+#text_1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(20, 73, 151);
+    float: left;
+}
+
+#text_2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(125, 32, 151);
+    float: left;
+}
+
+#text_3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(125, 32, 151);
+    text-align: center;
+    justify-content: center;
+}
+
+#button_login {
+    width: 100%;
+}
+
+#button_signUp {
+    width: 100%;
+    background: rgb(20, 73, 151);
+    margin-top: 5%;
+}
+
+.line {
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    height: 1px;
+    border: 1px solid rgb(125, 32, 151);
+}
+
+#store-img {
+    margin-top: 12.5%;
+}
+
+#footer {
+    background: rgb(125, 32, 151);
+}
+
+#logo_facebook {
+    width: 100%;
+    height: 100%;
+}
+
+.links {
+    color: white;
+}
+
+#uniminuto {
+    margin-top: 9%;
+}
+
+#quidlab {
+    margin-bottom: 1%;
+}
+
+#foot-copy {
+    background: white;
+}
